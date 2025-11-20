@@ -216,5 +216,3 @@ Jika Anda ingin versi:
 🔹 Auto SSL dengan Let's Encrypt
 🔹 Notifikasi Telegram setelah deploy
 
-Tinggal bilang saja — saya buatkan!
-
