@@ -32,6 +32,6 @@ jobs:
           username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.VPS_SSH_KEY }}
           script: |
-            cd /home/${{ secrets.VPS_USER }}/si-ujkbnsp
+            cd /home/slamet/si-ujkbnsp
             git pull origin main
             docker compose up -d --build
